@@ -24,8 +24,8 @@ I am a passionate Frontend and mobile Developer with 1 year of experience, dedic
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## Keep in touch with me 😊
-<a href="mailto:erick.dev23@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=Gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=erick.dev23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
